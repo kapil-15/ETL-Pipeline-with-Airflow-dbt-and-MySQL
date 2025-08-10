@@ -135,5 +135,3 @@ etl_project/
 ## License
 
 This project is licensed under the MIT License.
-
-🚀 **Now your ETL pipeline is ready!** 🚀
